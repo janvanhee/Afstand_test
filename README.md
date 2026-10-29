@@ -1,4 +1,4 @@
-# Afstand_test
+# 01-Afstand_test
 Github, Classroom50 en Github Pages testen met een kleine opdracht
 
 1. Maak een kleine mini-site met een h1 "Test Github Pages" en een h2 waarin enkel je naam staat. Voor de rest bevat de pagina enkel een willekeurige afbeelding. Je gebruikt een apart CSS-bestand met slechts enkele regels (kleuren, evt. lettertype). De afbeelding komt in een aparte map "img". 
